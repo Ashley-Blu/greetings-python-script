@@ -1,12 +1,12 @@
 Greetings Python Script
 
-What our script do?
+WHAT THE SCRIPT DO?
 This script is a user friendly UX program, that allows a user to enter their first name and last name.
 
-The outcome
+THE OUTCOME.
 The script prints a friendly greeting to the user. It greets the user by its name
 
-Description
+dESCRIPTION.
 first_name > a variable that stores the users name.
 last_name > a variable that stores the surname
 full_name > stores the name and surname in one variable 
